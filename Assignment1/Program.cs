@@ -13,7 +13,7 @@ using RestSharp;
     //GET All Users
     static void GetAllUsers(RestClient client)
     {
-        var getUserRequest = new RestRequest("users", Method.Get);
+        var getUserRequest = new RestRequest("todos", Method.Get);
       
 
         var getUserResponse = client.Execute(getUserRequest);

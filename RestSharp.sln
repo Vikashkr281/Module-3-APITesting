@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1 RestSharp", "Assignment1\Assignment1 RestSharp.csproj", "{D598F3FA-79C7-45B6-BE71-2AA26E1035E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment1 RestSharp", "Assignment1\Assignment1 RestSharp.csproj", "{D598F3FA-79C7-45B6-BE71-2AA26E1035E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonRest", "JsonRest\JsonRest.csproj", "{DFE5C0E8-0B8A-4DC4-AEDC-A3132BB55AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestExNUnit", "RestExNUnit\RestExNUnit.csproj", "{3353CDBA-DDA0-4FE6-8F52-D9638C45E903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment-2RestApiUSingNunit", "Assignment-2RestApiUSingNunit\Assignment-2RestApiUSingNunit.csproj", "{29B57B03-A7BF-4579-89B0-7E3397E33A1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{D598F3FA-79C7-45B6-BE71-2AA26E1035E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D598F3FA-79C7-45B6-BE71-2AA26E1035E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D598F3FA-79C7-45B6-BE71-2AA26E1035E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE5C0E8-0B8A-4DC4-AEDC-A3132BB55AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE5C0E8-0B8A-4DC4-AEDC-A3132BB55AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE5C0E8-0B8A-4DC4-AEDC-A3132BB55AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE5C0E8-0B8A-4DC4-AEDC-A3132BB55AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3353CDBA-DDA0-4FE6-8F52-D9638C45E903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3353CDBA-DDA0-4FE6-8F52-D9638C45E903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3353CDBA-DDA0-4FE6-8F52-D9638C45E903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3353CDBA-DDA0-4FE6-8F52-D9638C45E903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B57B03-A7BF-4579-89B0-7E3397E33A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B57B03-A7BF-4579-89B0-7E3397E33A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B57B03-A7BF-4579-89B0-7E3397E33A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B57B03-A7BF-4579-89B0-7E3397E33A1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
