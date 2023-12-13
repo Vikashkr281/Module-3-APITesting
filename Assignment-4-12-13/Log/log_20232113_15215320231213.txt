@@ -1,0 +1,27 @@
+2023-12-13 15:21:53.827 +05:30 [INF] Delete user test started
+2023-12-13 15:21:56.529 +05:30 [INF] GetNonExistingUser test started
+2023-12-13 15:21:56.967 +05:30 [INF] GetNonExistingUser Test Passed
+2023-12-13 15:21:56.968 +05:30 [INF] CreateUser test started
+2023-12-13 15:21:57.903 +05:30 [INF] API  Response :{
+  "title": "india",
+  "completed": "True",
+  "id": 201
+}
+2023-12-13 15:21:57.910 +05:30 [INF] user Created and returned
+2023-12-13 15:21:57.911 +05:30 [INF] Title is not empty
+2023-12-13 15:21:57.912 +05:30 [INF] Create user all tests passed 
+2023-12-13 15:21:57.912 +05:30 [INF] GetSingleUser test started
+2023-12-13 15:21:58.341 +05:30 [INF] API  Response :{
+  "userId": 1,
+  "id": 1,
+  "title": "delectus aut autem",
+  "completed": false
+}
+2023-12-13 15:21:58.344 +05:30 [INF] Update User test started
+2023-12-13 15:21:59.547 +05:30 [INF] API  Response :{
+  "title": "Ust",
+  "completed": "False",
+  "id": 2
+}
+2023-12-13 15:21:59.548 +05:30 [INF] user Created and returned
+2023-12-13 15:21:59.548 +05:30 [INF] Update user all tests passed 
